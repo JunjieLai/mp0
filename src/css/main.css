@@ -75,18 +75,3 @@ body {
 .bio:last-of-type {
     margin-bottom: 0;
 }
-
-@media (max-width: 768px) {
-    .card {
-        padding: 30px 20px;
-        margin: 10px;
-    }
-    
-    .name {
-        font-size: 28px;
-    }
-    
-    .bio {
-        font-size: 13px;
-    }
-}
